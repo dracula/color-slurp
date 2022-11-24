@@ -1,4 +1,4 @@
-### ColorSlurp
+### [ColorSlurp](https://colorslurp.com)
 
 #### Install using Git
 
